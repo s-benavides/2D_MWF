@@ -1,5 +1,5 @@
 # 2D Model Waleffe Flow (MWF)
-This code solves a two-vertical-mode truncation of the [Waleffe Flow (WF)]{https://doi.org/10.1017/jfm.2016.92} system and its turbulence closures, resulting in a six variable, two-dimensional system of partial differential equations, which are solved using [Dedalus]{https://dedalus-project.org/} (currently just [v2_master]{https://github.com/DedalusProject/dedalus/tree/v2_master}). See Benavides, Tuckerman, & Barkley (arxiv link coming soon...) for details on the truncation, closure choices, and use of the model.
+This code solves a two-vertical-mode truncation of the [Waleffe Flow (WF)](https://doi.org/10.1017/jfm.2016.92) system and its turbulence closures, resulting in a six variable, two-dimensional system of partial differential equations, which are solved using [Dedalus](https://dedalus-project.org/) (currently just [v2_master](https://github.com/DedalusProject/dedalus/tree/v2_master)). See Benavides, Tuckerman, & Barkley (arxiv link coming soon...) for details on the truncation, closure choices, and use of the model.
 
 This repository contains two directories:
 
