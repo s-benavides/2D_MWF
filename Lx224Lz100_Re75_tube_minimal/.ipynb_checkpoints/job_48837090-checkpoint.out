@@ -1,0 +1,73 @@
+2023-06-27 13:30:53,263 __main__ 0/32 INFO :: Running on 32 cores,  2 nodes
+2023-06-27 13:30:53,263 __main__ 0/32 INFO :: Lx = 224.0000000, Lz = 100.0000000, Re = 7.5000e+01
+2023-06-27 13:30:53,538 pencil 0/32 INFO :: Building pencil matrix 1/7 (~14%) Elapsed: 0s, Remaining: 1s, Rate: 6.0e+00/s
+2023-06-27 13:30:53,704 pencil 0/32 INFO :: Building pencil matrix 2/7 (~29%) Elapsed: 0s, Remaining: 1s, Rate: 6.0e+00/s
+2023-06-27 13:30:53,865 pencil 0/32 INFO :: Building pencil matrix 3/7 (~43%) Elapsed: 0s, Remaining: 1s, Rate: 6.1e+00/s
+2023-06-27 13:30:54,007 pencil 0/32 INFO :: Building pencil matrix 4/7 (~57%) Elapsed: 1s, Remaining: 0s, Rate: 6.3e+00/s
+2023-06-27 13:30:54,148 pencil 0/32 INFO :: Building pencil matrix 5/7 (~71%) Elapsed: 1s, Remaining: 0s, Rate: 6.4e+00/s
+2023-06-27 13:30:54,290 pencil 0/32 INFO :: Building pencil matrix 6/7 (~86%) Elapsed: 1s, Remaining: 0s, Rate: 6.5e+00/s
+2023-06-27 13:30:54,432 pencil 0/32 INFO :: Building pencil matrix 7/7 (~100%) Elapsed: 1s, Remaining: 0s, Rate: 6.6e+00/s
+2023-06-27 13:30:54,434 __main__ 0/32 INFO :: Solver built
+2023-06-27 13:30:54,434 solvers 0/32 INFO :: Loading solver state from: restart.h5
+2023-06-27 13:30:54,437 solvers 0/32 INFO :: Loading iteration: 93312
+2023-06-27 13:30:54,437 solvers 0/32 INFO :: Loading write: 4
+2023-06-27 13:30:54,437 solvers 0/32 INFO :: Loading sim time: 450.00000000043514
+2023-06-27 13:30:54,437 solvers 0/32 INFO :: Loading timestep: 0.004822530864197531
+2023-06-27 13:30:55,074 __main__ 0/32 INFO :: Starting loop
+2023-06-27 13:36:22,136 __main__ 0/32 INFO :: Iteration: 95001, Time: 4.581453e+02, dt: 4.822531e-03
+2023-06-27 13:36:22,277 __main__ 0/32 INFO :: average KE = 7.340376e-03
+2023-06-27 13:36:22,280 __main__ 0/32 INFO :: average KE_q = 5.999922e-03
+2023-06-27 13:52:18,032 __main__ 0/32 INFO :: Iteration: 100001, Time: 4.822579e+02, dt: 4.822531e-03
+2023-06-27 13:52:18,035 __main__ 0/32 INFO :: average KE = 7.854382e-03
+2023-06-27 13:52:18,038 __main__ 0/32 INFO :: average KE_q = 6.292574e-03
+2023-06-27 14:08:39,168 __main__ 0/32 INFO :: Iteration: 105001, Time: 5.063706e+02, dt: 4.822531e-03
+2023-06-27 14:08:39,171 __main__ 0/32 INFO :: average KE = 8.379177e-03
+2023-06-27 14:08:39,174 __main__ 0/32 INFO :: average KE_q = 6.592693e-03
+2023-06-27 14:24:59,101 __main__ 0/32 INFO :: Iteration: 110001, Time: 5.304832e+02, dt: 4.822531e-03
+2023-06-27 14:24:59,105 __main__ 0/32 INFO :: average KE = 8.912511e-03
+2023-06-27 14:24:59,108 __main__ 0/32 INFO :: average KE_q = 6.900002e-03
+2023-06-27 14:42:07,665 __main__ 0/32 INFO :: Iteration: 115001, Time: 5.545959e+02, dt: 4.822531e-03
+2023-06-27 14:42:07,669 __main__ 0/32 INFO :: average KE = 9.453630e-03
+2023-06-27 14:42:07,671 __main__ 0/32 INFO :: average KE_q = 7.215297e-03
+2023-06-27 14:59:28,025 __main__ 0/32 INFO :: Iteration: 120001, Time: 5.787085e+02, dt: 4.822531e-03
+2023-06-27 14:59:28,028 __main__ 0/32 INFO :: average KE = 1.000359e-02
+2023-06-27 14:59:28,031 __main__ 0/32 INFO :: average KE_q = 7.539867e-03
+2023-06-27 15:16:45,660 __main__ 0/32 INFO :: Iteration: 125001, Time: 6.028212e+02, dt: 4.822531e-03
+2023-06-27 15:16:45,663 __main__ 0/32 INFO :: average KE = 1.056396e-02
+2023-06-27 15:16:45,666 __main__ 0/32 INFO :: average KE_q = 7.874893e-03
+2023-06-27 15:33:58,006 __main__ 0/32 INFO :: Iteration: 130001, Time: 6.269338e+02, dt: 4.822531e-03
+2023-06-27 15:33:58,009 __main__ 0/32 INFO :: average KE = 1.113641e-02
+2023-06-27 15:33:58,012 __main__ 0/32 INFO :: average KE_q = 8.221246e-03
+2023-06-27 15:50:25,017 __main__ 0/32 INFO :: Iteration: 135001, Time: 6.510465e+02, dt: 4.822531e-03
+2023-06-27 15:50:25,020 __main__ 0/32 INFO :: average KE = 1.172354e-02
+2023-06-27 15:50:25,023 __main__ 0/32 INFO :: average KE_q = 8.578867e-03
+2023-06-27 16:05:58,659 __main__ 0/32 INFO :: Iteration: 140001, Time: 6.751591e+02, dt: 4.822531e-03
+2023-06-27 16:05:58,867 __main__ 0/32 INFO :: average KE = 1.232458e-02
+2023-06-27 16:05:58,870 __main__ 0/32 INFO :: average KE_q = 8.944938e-03
+2023-06-27 16:21:38,234 __main__ 0/32 INFO :: Iteration: 145001, Time: 6.992718e+02, dt: 4.822531e-03
+2023-06-27 16:21:38,441 __main__ 0/32 INFO :: average KE = 1.293264e-02
+2023-06-27 16:21:38,443 __main__ 0/32 INFO :: average KE_q = 9.311419e-03
+2023-06-27 16:37:17,110 __main__ 0/32 INFO :: Iteration: 150001, Time: 7.233845e+02, dt: 4.822531e-03
+2023-06-27 16:37:17,113 __main__ 0/32 INFO :: average KE = 1.353136e-02
+2023-06-27 16:37:17,116 __main__ 0/32 INFO :: average KE_q = 9.665792e-03
+2023-06-27 16:53:02,430 __main__ 0/32 INFO :: Iteration: 155001, Time: 7.474971e+02, dt: 4.822531e-03
+2023-06-27 16:53:02,634 __main__ 0/32 INFO :: average KE = 1.409638e-02
+2023-06-27 16:53:02,636 __main__ 0/32 INFO :: average KE_q = 9.996346e-03
+2023-06-27 17:08:44,084 __main__ 0/32 INFO :: Iteration: 160001, Time: 7.716098e+02, dt: 4.822531e-03
+2023-06-27 17:08:44,087 __main__ 0/32 INFO :: average KE = 1.460675e-02
+2023-06-27 17:08:44,090 __main__ 0/32 INFO :: average KE_q = 1.029673e-02
+2023-06-27 17:24:24,957 __main__ 0/32 INFO :: Iteration: 165001, Time: 7.957224e+02, dt: 4.822531e-03
+2023-06-27 17:24:24,961 __main__ 0/32 INFO :: average KE = 1.505853e-02
+2023-06-27 17:24:24,964 __main__ 0/32 INFO :: average KE_q = 1.057720e-02
+2023-06-27 17:39:54,159 __main__ 0/32 INFO :: Iteration: 170001, Time: 8.198351e+02, dt: 4.822531e-03
+2023-06-27 17:39:54,163 __main__ 0/32 INFO :: average KE = 1.549826e-02
+2023-06-27 17:39:54,166 __main__ 0/32 INFO :: average KE_q = 1.091752e-02
+2023-06-27 17:55:38,677 __main__ 0/32 INFO :: Iteration: 175001, Time: 8.439477e+02, dt: 4.822531e-03
+2023-06-27 17:55:38,680 __main__ 0/32 INFO :: average KE = 1.616642e-02
+2023-06-27 17:55:38,682 __main__ 0/32 INFO :: average KE_q = 1.138656e-02
+2023-06-27 18:11:16,936 __main__ 0/32 INFO :: Iteration: 180001, Time: 8.680604e+02, dt: 4.822531e-03
+2023-06-27 18:11:16,939 __main__ 0/32 INFO :: average KE = 1.718785e-02
+2023-06-27 18:11:16,942 __main__ 0/32 INFO :: average KE_q = 1.158419e-02
+2023-06-27 18:27:01,009 __main__ 0/32 INFO :: Iteration: 185001, Time: 8.921730e+02, dt: 4.822531e-03
+2023-06-27 18:27:01,223 __main__ 0/32 INFO :: average KE = 1.783429e-02
+2023-06-27 18:27:01,226 __main__ 0/32 INFO :: average KE_q = 1.143789e-02
