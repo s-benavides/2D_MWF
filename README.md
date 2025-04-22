@@ -1,5 +1,5 @@
 # 2D Model Waleffe Flow (MWF)
-This code solves a two-vertical-mode truncation of the [Waleffe Flow (WF)](https://doi.org/10.1017/jfm.2016.92) system and its turbulence closures, resulting in a six variable, two-dimensional system of partial differential equations, which are solved using [Dedalus](https://dedalus-project.org/) (currently just [v2_master](https://github.com/DedalusProject/dedalus/tree/v2_master)). See Benavides, Tuckerman, & Barkley (arxiv link coming soon...) for details on the truncation, closure choices, and use of the model.
+This code solves a two-vertical-mode truncation of the [Waleffe Flow (WF)](https://doi.org/10.1017/jfm.2016.92) system and its turbulence closures, resulting in a six variable, two-dimensional system of partial differential equations, which are solved using [Dedalus](https://dedalus-project.org/) (specifically, the [v2_master](https://github.com/DedalusProject/dedalus/tree/v2_master) branch). See Benavides & Barkley [[preprint](https://doi.org/10.48550/arXiv.2309.12879)] for details on the truncation, closure choices, and use of the model.
 
 This repository contains two directories and a Jupyter Lab notebook:
 
@@ -9,4 +9,4 @@ This repository contains two directories and a Jupyter Lab notebook:
 
 3. A Jupyter Lab notebook with calculations of the homogeneous dynamics (including null clines and time evolution) as well as the linear stability calculation (1D and 2D) of the uniform turbulence fixed point.
 
-If you have any questions regarding the code or its implementation, don't hesitate to reach out to Santiago.Benavides@warwick.ac.uk 
+If you have any questions regarding the code or its implementation, don't hesitate to reach out to santiago.benavides@upm.es .
