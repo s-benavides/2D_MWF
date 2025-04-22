@@ -8,3 +8,5 @@ This repository contains two directories:
 2. A post-processing directory, `postproc`, which contains a movie making script and a pair of files, one python and one Jupyter Lab notebook, which both contain the same scripts for plotting time series and snapshots from the simulations.
 
 If you have any questions regarding the code or its implementation, don't hesitate to reach out to santiago.benavides@upm.es .
+
+[![DOI](https://zenodo.org/badge/675737995.svg)](https://doi.org/10.5281/zenodo.15261062)
