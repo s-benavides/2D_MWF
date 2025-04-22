@@ -9,4 +9,5 @@ This repository contains two directories:
 
 If you have any questions regarding the code or its implementation, don't hesitate to reach out to santiago.benavides@upm.es .
 
+## Releases:
 [![DOI](https://zenodo.org/badge/675737995.svg)](https://doi.org/10.5281/zenodo.15261062)
