@@ -58,7 +58,7 @@ def snapshot_slice(n,data,field):
 idir = '../'
 
 # Choose output directory
-odir = './Figures/'
+odir = './'
 
 # Searches through all directories in 'Data' folder (which are named after experiments) and imports the data:
 dirs = sorted(glob.glob(idir+'Lx224*tube*minimal*'))
