@@ -1,6 +1,12 @@
 # 2D Model Waleffe Flow (MWF)
 This code solves a two-vertical-mode truncation of the [Waleffe Flow (WF)](https://doi.org/10.1017/jfm.2016.92) system and its turbulence closures, resulting in a six variable, two-dimensional system of partial differential equations, which are solved using [Dedalus](https://dedalus-project.org/) (specifically, the [v2_master](https://github.com/DedalusProject/dedalus/tree/v2_master) branch). See Benavides & Barkley [[preprint](https://doi.org/10.48550/arXiv.2309.12879)] for details on the truncation, closure choices, and use of the model.
 
+### Santiago J. Benavides 
+Universidad Politécnica de Madrid, Spain 
+
+santiago.benavides@upm.es
+
+### Basic description of repository
 This repository contains two directories:
 
 1. A sample run directory, `Lx224Lz100_Re75_tube_minimal`, which contains a parameter file `params.py`, and the main code file `main.py`, as well as a sample jobscript fle, Dedalus configuration file, and a script to clean the directory used in restarting runs from zero.
@@ -9,5 +15,5 @@ This repository contains two directories:
 
 If you have any questions regarding the code or its implementation, don't hesitate to reach out to santiago.benavides@upm.es .
 
-## Releases:
+### Releases:
 v1.0, April 22, 2025. [![DOI](https://zenodo.org/badge/675737995.svg)](https://doi.org/10.5281/zenodo.15261062)
