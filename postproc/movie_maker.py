@@ -53,7 +53,7 @@ def snapshot_slice(n,data,field):
 idir = '../'
 
 # Choose output directory
-odir = './Movies'
+odir = './'
 
 # Choose run
 #run = 'Lx224Lz100_Re90_gauss_april_v6d7'
