@@ -9,7 +9,7 @@ santiago.benavides@upm.es
 ### Basic description of repository
 This repository contains two directories:
 
-1. A sample run directory, `Lx224Lz100_Re75_tube_minimal`, which contains a parameter file `params.py`, and the main code file `main.py`, as well as a sample jobscript fle, Dedalus configuration file, and a script to clean the directory used in restarting runs from zero.
+1. A sample run directory, `Lx224Lz100_Re75_tube_minimal`, which contains a parameter file `params.py`, and the main code file `main.py`, as well as a sample jobscript file, Dedalus configuration file, and a script to clean the directory used in restarting runs from zero.
 
 2. A post-processing directory, `postproc`, which contains a movie making script and a pair of files, one python and one Jupyter Lab notebook, which both contain the same scripts for plotting time series and snapshots from the simulations.
 
