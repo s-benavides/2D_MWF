@@ -2,9 +2,9 @@
 This code solves a two-vertical-mode truncation of the [Waleffe Flow (WF)](https://doi.org/10.1017/jfm.2016.92) system and its turbulence closures, resulting in a six variable, two-dimensional system of partial differential equations, which are solved using [Dedalus](https://dedalus-project.org/) (specifically, the [v2_master](https://github.com/DedalusProject/dedalus/tree/v2_master) branch). See Benavides & Barkley [[preprint](https://doi.org/10.48550/arXiv.2309.12879)] for details on the truncation, closure choices, and use of the model.
 
 ### Santiago J. Benavides 
-Universidad Politécnica de Madrid, Spain 
+University of Edinburgh, United Kingdom
 
-santiago.benavides@upm.es
+Santiago.Benavides@ed.ac.uk
 
 ### Basic description of repository
 This repository contains two directories:
